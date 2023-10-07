@@ -1,0 +1,2 @@
+- file header là nơi chứa in4 định dạng tệp, thg nằm đầu tệp
+- 
